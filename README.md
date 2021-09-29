@@ -1,4 +1,4 @@
-# Hostel Management System
+# Guessing Game - GUI
 
 This is a management system for hostels done using Spring boot and thymeleaf. 
 The system stores hostel information such as rooms, residents, prices. It is meant to act as an REST Service for crud operations regarding one or more hostels.
